@@ -56,7 +56,7 @@
 
 ## 🪧 Demo
 
-Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
+Experience the demo at [link.dlterabox.site](https://link.dlterabox.site/dashboard). Log in using the Site Token below:
 
 ```txt
 Site Token: SinkCool
@@ -64,9 +64,9 @@ Site Token: SinkCool
 
 <details>
   <summary><b>Screenshots</b></summary>
-  <img alt="Analytics" src="./docs/images/sink.cool_dashboard.png"/>
-  <img alt="Links" src="./docs/images/sink.cool_dashboard_links.png"/>
-  <img alt="Link Analytics" src="./docs/images/sink.cool_dashboard_link_slug.png"/>
+  <img alt="Analytics" src="./docs/images/link.dlterabox.site_dashboard.png"/>
+  <img alt="Links" src="./docs/images/link.dlterabox.site_dashboard_links.png"/>
+  <img alt="Link Analytics" src="./docs/images/link.dlterabox.site_dashboard_link_slug.png"/>
 </details>
 
 ## 🧱 Technologies Used
@@ -122,7 +122,7 @@ We currently do not support native MCP Server, but we have OpenAPI documentation
         "mcp-openapi-proxy"
       ],
       "env": {
-        "OPENAPI_SPEC_URL": "https://sink.cool/_docs/openapi.json",
+        "OPENAPI_SPEC_URL": "https://link.dlterabox.site/_docs/openapi.json",
         "API_KEY": "SinkCool",
         "TOOL_WHITELIST": "/api/link/create"
       }

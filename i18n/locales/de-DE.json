@@ -39,7 +39,7 @@
         "email": "E-Mail",
         "telegram": "Telegram",
         "blog": "Blog",
-        "twitter": "Twitter",
+        
         "mastodon": "Mastodon",
         "github": "GitHub"
       }
@@ -82,17 +82,11 @@
         "description": "Lege Ablaufdaten für deine Links fest"
       }
     },
-    "cta": {
-      "title": "Sofortiges Deployment",
-      "description": "Mit nur wenigen einfachen Klicks kannst du ohne Kosten mit der Bereitstellung beginnen",
-      "button": "Deployment starten"
-    },
+    
     "logos": {
       "title": "Entwickelt mit großartigen Technologien"
-    },
-    "twitter": {
-      "follow": "Folge mir auf X (Twitter)"
     }
+    
   },
   "dashboard": {
     "title": "Dashboard",

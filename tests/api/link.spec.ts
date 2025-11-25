@@ -10,7 +10,7 @@ const testLinkPayload = generateMock(z.object({
 
 describe('/api/link/ai', () => {
   // it('generates AI Slug for valid URL', async () => {
-  //   const response = await fetchWithAuth(`/api/link/ai?url=${encodeURIComponent('https://sink.cool')}`)
+  //   const response = await fetchWithAuth(`/api/link/ai?url=${encodeURIComponent('https://link.dlterabox.site')}`)
 
   //   expect(response.status).toBe(200)
 

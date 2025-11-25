@@ -82,17 +82,11 @@
         "description": "Set expiration dates for your links"
       }
     },
-    "cta": {
-      "title": "Deployment immediately",
-      "description": "With just a few simple clicks, you can start deploying without any expenses",
-      "button": "Start Deploy"
-    },
+    
     "logos": {
       "title": "Built with awesome technologies"
-    },
-    "twitter": {
-      "follow": "Follow me on X(Twitter)"
     }
+    
   },
   "dashboard": {
     "title": "Dashboard",
